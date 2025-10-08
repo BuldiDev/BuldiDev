@@ -14,14 +14,6 @@ Developer che cerca di scrivere codice che funziona al primo tentativo (spoiler:
 
 ---
 
-### Chi sono
-
-Sviluppo cose per il web. Mi piace sperimentare con nuove tecnologie e vedere cosa succede quando le cose si rompono (che poi è il 90% del lavoro di un developer, no?).
-
-Quando non sto debuggando per ore per un punto e virgola mancante, probabilmente sto imparando qualcosa di nuovo o cercando di capire perché il codice funzionava ieri e oggi no.
-
----
-
 <div align="center">
 
 ## Statistiche GitHub
@@ -65,14 +57,14 @@ Quando non sto debuggando per ore per un punto e virgola mancante, probabilmente
 
 <div align="center">
 
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 </div>
 
