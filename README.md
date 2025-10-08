@@ -14,7 +14,7 @@
 
 ## Statistiche GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=BuldiDev&show_icons=true&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&title_color=ff6600&icon_color=ff6600&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BuldiDev&show_icons=true&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&title_color=ff6600&icon_color=ff6600&text_color=ffffff&count_private=true" alt="GitHub Stats" height="200"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuldiDev&theme=dark&hide_border=false&border=ffffff&background=000000&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="200"/>
 
 </div>
@@ -39,22 +39,22 @@
 
 ---
 
-### Grafico Contribuzioni
-
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BuldiDev&theme=github-dark&hide_border=true&area=true&bg_color=000000&color=ff6600&line=ff6600&point=ffffff)
+### Grafico Contribuzioni
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BuldiDev&theme=github-dark&hide_border=false&area=true&bg_color=000000&color=ff6600&line=ff6600&point=ffffff&hide_title=true)
 
 </div>
 
----
+<div align="center">
 
 ### Tech Stack
 
-<div align="center">
-
 ![Godot](https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godot-engine&logoColor=ff6600)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=ffffff)
+![GDScript](https://img.shields.io/badge/GDScript-000000?style=for-the-badge&logo=godot-engine&logoColor=ff6600)
+![C%23](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ff6600)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff6600)
@@ -66,9 +66,9 @@
 
 ---
 
-### Contatti
-
 <div align="center">
+
+### Contatti
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff6600)](https://github.com/BuldiDev)
 
