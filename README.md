@@ -14,16 +14,18 @@
 
 ### Statistiche GitHub
 
-<table style="border: 2px solid #ffffff; background-color: #000000;">
+<table border="1" bordercolor="#ffffff" style="border-collapse: collapse; border: 2px solid #ffffff; background-color: #0d1117;">
   <tr>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=BuldiDev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff6600&icon_color=ff6600&text_color=ffffff&count_private=true&hide_title=true&hide_rank=true" height="180" />
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=BuldiDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6600&icon_color=ff6600&text_color=ffffff&count_private=true&hide_title=true&hide_rank=true" height="180" />
     </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuldiDev&theme=dark&hide_border=true&background=000000&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="180" />
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuldiDev&theme=dark&hide_border=true&background=0d1117&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="180" />
     </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuldiDev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff6600&text_color=ffffff&count_private=true&langs_count=8&hide_title=true" height="180" />
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuldiDev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6600&text_color=ffffff&count_private=true&langs_count=8&hide_title=true" height="180" />
     </td>
   </tr>
 </table>
