@@ -2,10 +2,6 @@
 
 ![Header](./github-header-banner.png)
 
-# Hey, sono BuldiDev
-
-Developer che cerca di scrivere codice che funziona al primo tentativo (spoiler: non succede mai)
-
 [![Profile Views](https://komarev.com/ghpvc/?username=BuldiDev&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/BuldiDev)
 [![GitHub followers](https://img.shields.io/github/followers/BuldiDev?style=for-the-badge&color=blue&logo=github)](https://github.com/BuldiDev?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/BuldiDev?style=for-the-badge&color=yellow&logo=github)](https://github.com/BuldiDev)
