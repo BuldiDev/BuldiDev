@@ -14,18 +14,19 @@
 
 ### Statistiche GitHub
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BuldiDev&show_icons=true&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&title_color=ff6600&icon_color=ff6600&text_color=ffffff&count_private=true&hide_title=true&hide_rank=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BuldiDev&show_icons=true&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&title_color=ff6600&icon_color=ff6600&text_color=ffffff&count_private=true&hide_title=true&hide_rank=true" height="180" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=BuldiDev&theme=dark&hide_border=false&border=ffffff&background=000000&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuldiDev&theme=dark&hide_border=false&border=ffffff&background=000000&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="180" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BuldiDev&layout=compact&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&title_color=ff6600&text_color=ffffff&count_private=true&langs_count=10&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuldiDev&layout=compact&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&title_color=ff6600&text_color=ffffff&count_private=true&langs_count=10&hide_title=true" height="180" />
-</picture>
+<table style="border: 2px solid #ffffff; background-color: #000000;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=BuldiDev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff6600&icon_color=ff6600&text_color=ffffff&count_private=true&hide_title=true&hide_rank=true" height="180" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuldiDev&theme=dark&hide_border=true&background=000000&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="180" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuldiDev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff6600&text_color=ffffff&count_private=true&langs_count=8&hide_title=true" height="180" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
