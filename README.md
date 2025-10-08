@@ -16,15 +16,15 @@
 
 <table bgcolor="#0d1117" border="2" bordercolor="#ffffff" cellspacing="0" cellpadding="10">
   <tr>
-    <td align="center">
+    <td align="center" bgcolor="#0d1117">
       <img src="https://github-readme-stats.vercel.app/api?username=BuldiDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6600&icon_color=ff6600&text_color=ffffff&count_private=true&hide_title=true&hide_rank=true" height="180" />
     </td>
-    <td align="center">
+    <td align="center" bgcolor="#0d1117">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuldiDev&theme=dark&hide_border=true&background=0d1117&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="180" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" colspan="2" bgcolor="#0d1117">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuldiDev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6600&text_color=ffffff&count_private=true&langs_count=8&hide_title=true" height="180" />
     </td>
   </tr>
