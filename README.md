@@ -14,8 +14,8 @@
 
 ## Statistiche GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=BuldiDev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff6600&icon_color=ff6600&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BuldiDev&theme=dark&hide_border=true&background=000000&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BuldiDev&show_icons=true&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&title_color=ff6600&icon_color=ff6600&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BuldiDev&theme=dark&hide_border=false&border=ffffff&background=000000&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="200"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ### Linguaggi più usati
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuldiDev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff6600&text_color=ffffff&count_private=true&langs_count=10" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuldiDev&layout=compact&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&title_color=ff6600&text_color=ffffff&count_private=true&langs_count=10&hide_title=true" alt="Top Languages" height="200"/>
 
 </div>
 
