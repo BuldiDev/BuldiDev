@@ -12,18 +12,11 @@
 
 <div align="center">
 
-## Statistiche GitHub
+### Statistiche GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=BuldiDev&show_icons=true&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&title_color=ff6600&icon_color=ff6600&text_color=ffffff&count_private=true" alt="GitHub Stats" height="200"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BuldiDev&theme=dark&hide_border=false&border=ffffff&background=000000&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="200"/>
-
-</div>
-
-<div align="center">
-
-### Linguaggi più usati
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuldiDev&layout=compact&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&title_color=ff6600&text_color=ffffff&count_private=true&langs_count=10&hide_title=true" alt="Top Languages" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BuldiDev&show_icons=true&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&title_color=ff6600&icon_color=ff6600&text_color=ffffff&count_private=true&hide_title=true&hide_rank=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BuldiDev&theme=dark&hide_border=false&border=ffffff&background=000000&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuldiDev&layout=compact&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&title_color=ff6600&text_color=ffffff&count_private=true&langs_count=10&hide_title=true" alt="Top Languages" height="180"/>
 
 </div>
 
@@ -31,7 +24,7 @@
 
 <div align="center">
 
-## Trofei
+### Trofei
 
 <img src="https://github-profile-trophy.vercel.app/?username=BuldiDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 
