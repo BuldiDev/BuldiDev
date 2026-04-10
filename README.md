@@ -8,28 +8,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-### Statistiche GitHub
-
-<table bgcolor="#0d1117" border="2" bordercolor="#ffffff" cellspacing="0" cellpadding="10">
-    <td align="center" bgcolor="#0d1117">
-      <img src="https://github-readme-stats.vercel.app/api?username=BuldiDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff6600&icon_color=ff6600&text_color=ffffff&count_private=true&hide_title=true&hide_rank=true" height="180" />
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### Trofei
-
-<img src="https://github-profile-trophy.vercel.app/?username=BuldiDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
